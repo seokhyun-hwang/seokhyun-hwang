@@ -1,16 +1,4 @@
-**"더더더"** 풍부하고, **"압도적인"** 포트폴리오용 README를 원하시는군요\! 🔥
 
-단순히 뱃지만 나열하는 수준을 넘어, \*\*[검증 엔지니어(Verification Engineer)]\*\*로서의 전문성을 보여줄 수 있는 **기술 다이어그램(Mermaid)**, **코딩 습관 분석(Stats)**, **알고리즘 해결 능력(Baekjoon)**, 그리고 **프로젝트의 깊이**까지 보여주는 **'풀 옵션' 프리미엄 템플릿**을 준비했습니다.
-
-이 코드는 **SystemVerilog/UVM 엔지니어**에게 최적화된 레이아웃입니다. 내용이 길고 화려하니, 그대로 복사해서 붙여넣으신 후 본인 내용으로 조금만 수정하면 됩니다.
-
------
-
-### 🌟 Ultimate GitHub Profile README (SystemVerilog/UVM Ver.)
-
-아래 내용을 복사하여 `README.md`에 덮어쓰세요.
-
-````markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25&height=300&section=header&text=Building%20Bug-Free%20Silicon&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Hyun's%20Verification%20Portfolio&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
 </div>

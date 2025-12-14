@@ -21,12 +21,11 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&color=blue)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=3776AB)
-![MATLAB](https://img.shields.io/badge/MATLAB(Basic)-e36414?style=flat&logo=mathworks&logoColor=white&color=orange)
+![MATLAB(basic)](https://img.shields.io/badge/MATLAB(Basic)-e36414?style=flat&logo=mathworks&logoColor=white&color=ora)
 
 ### Tools & IDE
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-red?style=flat&logo=xilinx&logoColor=white&color=red)
 ![Vitis](https://img.shields.io/badge/Xilinx%20Vitis-orange?style=flat&logo=xilinx&logoColor=white&color=orange)
-![ModelSim](https://img.shields.io/badge/ModelSim-Verification-success?style=flat&color=green)
 ![EDA Playground](https://img.shields.io/badge/EDA%20Playground-9C27B0?style=flat&logo=edaplayground&logoColor=white&color=9C27B0)
 
 <br>
@@ -56,19 +55,18 @@
 <br>
 
 ## 🎓 Education & Training
-* **[하만 세미콘 아카데미]** | [대한상공회의소 서울기술교육센터] | *2025.07.01 ~ 2026.01.26 (예정)*
+* **하만 세미콘 아카데미** | 대한상공회의소 서울기술교육센터 | *2025.07.01 ~ 2026.01.26 (예정)*
     * 주요 학습 내용: Verilog HDL/SystemVerilog & UVM을 활용한 FPGA 설계 및 검증
-* **[반도체공정및실습캡스톤디자인]** | [고려대학교] | *2024.03 ~ 2024.06*
+* **반도체공정및실습캡스톤디자인** | 고려대학교 | *2024.03 ~ 2024.06*
     * Project 내용: 공정 압력에 따른 증착률 분석 연구
-* **[교내 반도체공정, 장비 실습]** | [고려대학교] | *2021.01 ~ 2021.01*
-    * Project 내용: Photo-litho, Etch, Deposition 등 반도체 공정 실습을 통해 공정 과정 설계와 실제 구현
+* **교내 반도체공정/장비 실습** | 고려대학교 | *2021.01 ~ 2021.01*    * Project 내용: Photo-litho, Etch, Deposition 등 반도체 공정 실습을 통해 공정 과정 설계와 실제 구현
 
 <br>
 
 ## 📂 Other Projects & Research
 > **📄 압력 변화와 열처리 과정이 박막에 미치는 영향**
 > * **설명**: 공정 압력(유량)에 따른 증착률 및 비저항 분석 연구
-> * **자료 보기**: 👉 [PDF 다운로드 (경로 확인 필요)](./files/반도체공정및실습캡스톤_보고서.pdf)
+> * **자료 보기***: 👉연구 자료(./files/반도체공정및실습캡스톤_보고서.pdf)
 
 <br>
 

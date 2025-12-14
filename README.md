@@ -1,69 +1,61 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=250&section=header&text=Verification%20Engineer&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Hyun's%20Portfolio&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=System-Level+Verification;SoC+Design+%26+Validation;UVM+Environment+Architecture;Reliable+Hardware+Design" alt="Typing SVG" />
-  </a>
-</div>
+# 👋 Hello, I'm SEOKHYUN HWANG
+> **FPGA & Embedded System Developer**
+> *하드웨어와 소프트웨어의 경계를 허무는 개발자가 되고 싶습니다.*
 
 <br>
 
-<div align="center">
-  <b>" Design with Logic, Verify with <span style="color: #3498db">Precision</span> "</b>
-  <br><br>
-  안녕하세요! <b>SystemVerilog</b>와 <b>UVM</b>을 기반으로 신뢰성 높은 칩을 검증하는 엔지니어입니다.<br>
-  논리적인 시나리오 설계와 자동화된 검증 환경 구축을 통해 <b>Bug-Free Silicon</b>을 지향합니다.
-</div>
-
-<br>
-<br>
-
-### 🛠️ Technical Skills
-
-<div align="center">
-
-| **Category** | **Stack** |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/SystemVerilog-181717?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Verilog-B71C1C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> |
-| **Methodologies** | <img src="https://img.shields.io/badge/UVM-IEEE%201800.2-4CAF50?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/AMBA_AXI-000000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/APB%2FAHB-0091BD?style=flat-square&logoColor=white"/> |
-| **EDA Tools** | <img src="https://img.shields.io/badge/Xilinx_Vivado-FF0000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ModelSim-2C2255?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logoColor=white"/> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> |
-
-</div>
+## 🚀 About Me
+- 🎓 **Education**: 고려대학교 전자및정보공학과 (졸업)
+- 📍 **Location**: Incheon, Korea
+- 🎂 **Birth**: 1998.10.06.
 
 <br>
 
-### 🚀 Key Projects
+## 🛠️ Tech Stacks
+### Languages
+![Verilog](https://img.shields.io/badge/Verilog-Hz?style=flat&logo=verilog&logoColor=white&color=blue)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Hz?style=flat&logo=systemverilog&logoColor=white&color=green)
+![C](https://img.shields.io/badge/C-Hz?style=flat&logo=c&logoColor=white&color=blue)
 
-| **Project Name** | **Description & Role** | **Tech Stack** |
-| :--- | :--- | :--- |
-| **[UVM Virtual Sequencer](https://github.com/hyun1006)** | • **Multi-Agent Control:** APB/SPI 등 이기종 인터페이스 간의 동기화 제어<br>• **Architecture:** Virtual Sequence를 활용한 계층적 검증 환경 구축<br>• **Outcome:** 복잡한 시나리오 검증 자동화 및 재사용성(Reusability) 확보 | `SystemVerilog`<br>`UVM` |
-| **[AXI4 Bus VIP Design](https://github.com/hyun1006)** | • **VIP Development:** AXI4 프로토콜 규격을 만족하는 Master/Slave VIP 설계<br>• **Verification:** Constrained Random Test를 통한 Bus Latency 및 Deadlock 검증<br>• **Outcome:** Bus Protocol 무결성 100% 확보 | `Verilog`<br>`AMBA AXI` |
-| **[FPGA Image Accelerator](https://github.com/hyun1006)** | • **HW/SW Co-design:** Zynq SoC(PS+PL)를 활용한 엣지 검출 가속기 구현<br>• **Optimization:** HLS 최적화를 통해 SW 대비 처리 속도 50배 향상<br>• **Outcome:** FHD급 영상 실시간(Real-time) 처리 달성 | `Vivado`<br>`Zynq` |
-
-<br>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hyun1006&theme=flat&column=7&margin-w=15&margin-h=15&no-bg=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyun1006&show_icons=true&theme=radical&bg_color=0d1117&title_color=3498db&text_color=ffffff&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1006&layout=compact&theme=radical&bg_color=0d1117&title_color=3498db&text_color=ffffff&hide_border=true" height="150" alt="languages graph" />
-</div>
+### Tools & IDE
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-Hz?style=flat&logo=xilinx&logoColor=white&color=red)
+![ModelSim](https://img.shields.io/badge/ModelSim-Hz?style=flat&logo=intel&logoColor=white&color=blue)
+![Vitis](https://img.shields.io/badge/Xilinx%20Vitis-Hz?style=flat&logo=xilinx&logoColor=white&color=orange)
 
 <br>
 
-<div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:3498db&height=80&section=footer" width="100%" />
-  
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+## 🗂️ Projects
+### 🔩 FPGA / SoC Architecture
+| Project & Description | Tech Stack | Links |
+| :--- | :--- | :---: |
+| **🎲 Real-time VGA Processing & Dice Game SoC**<br>• Master-Slave 이원화 아키텍처 기반 멀티미디어 시스템<br>• 실시간 Red Color 검출 및 픽셀 면적 계산 알고리즘 하드웨어 구현<br>• I2C 통신 프로토콜 설계 및 Custom VGA 컨트롤러 제작 | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-green)<br>![Vivado](https://img.shields.io/badge/-Vivado-red)<br>![I2C](https://img.shields.io/badge/-I2C-orange) | [👉 Repo](https://github.com/본인아이디/Real-time-VGA-Processing-Filter-Dice-Game) |
+| **⏱️ FPGA Smart Watch & Stopwatch**<br>• 물리 버튼과 I2C 통신을 결합한 하이브리드 제어 시계<br>• FND Dynamic Scanning 및 정밀 클럭 분주 설계<br>• 기계적 스위치 디바운싱(Debouncing) 로직 구현 | ![Verilog](https://img.shields.io/badge/-Verilog-blue)<br>![Vivado](https://img.shields.io/badge/-Vivado-red) | [👉 Repo](https://github.com/본인아이디/FPGA-Smart-Watch-Stopwatch) |
+
+### 🔌 Embedded System (예시 카테고리)
+| Project & Description | Tech Stack | Links |
+| :--- | :--- | :---: |
+| **MCU 기반 프로젝트 이름**<br>• 프로젝트 설명 한 줄 요약<br>• 주요 기능 설명 | ![C](https://img.shields.io/badge/-C-blue) | [👉 Repo](링크) |
+
+<br>
+
+## 📂 Other Projects & Research
+이곳은 별도의 깃허브 레포지토리가 없거나, 문서로 정리된 연구/프로젝트 자료입니다.
+
+> **📄압력 변화와 열처리 과정이 박막에 미치는 영향**
+> * **설명**: 반도체공정및실습캡스톤 보고서
+> * **자료 보기**: [👉 PDF 다운로드/보기](./files/my_project.pdf)
+>     * *(사용법: 레포지토리에 `files` 폴더를 만들고 pdf 파일을 올린 뒤 경로를 맞춰주세요)*
+
+<br>
+
+## 🎓 Education & Training
+* **[하만 세미콘 아카데미]** | [대한상공회의소 서울기술교육센터] | *2025.07.01 ~ 2026.01.26*
+    * 주요 학습 내용: FPGA 설계, Verilog HDL, SoC 구조 이해, UVM 검증
+* **[교내 반도체공정 실습]** | [교육 기관] | *202x.xx ~ 202x.xx*
+
+<br>
+
+## 📫 Contact
+* 📞 **Phone**: 010-xxxx-xxxx
+* 📧 **Email**: [doitndidit@gmail.com]
+* 🐱 **Github**: [https://github.com/hyun1006]

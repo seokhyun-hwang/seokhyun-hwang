@@ -80,13 +80,9 @@
 *2025.07.01 ~ 2026.01.26 (예정)*
 > Verilog HDL/SystemVerilog & UVM을 활용한 FPGA 설계 및 검증
 
-<br>
-
 #### **반도체공정및실습캡스톤디자인** | 고려대학교
 *2024.03 ~ 2024.06*
 > 반도체 8대 공정 학습 / 공정 압력에 따른 증착률과 비저항 분석 프로젝트 진행 (Deposition Rate Analysis)
-
-<br>
 
 #### **교내 반도체공정/장비 실습** | 고려대학교
 *2021.01 ~ 2021.01*
@@ -100,8 +96,7 @@
 > **📄 압력 변화와 열처리 과정이 박막에 미치는 영향**
 > <br>
 > * **연구 내용**: 공정 압력(유량)에 따른 증착률 및 비저항 분석 연구
-> <br>
-> * **자료 보기**: [📥 Download Full Report](https://github.com/hyun1006/files/blob/main/Semiconductor_Process_and_Practice_Capstone_Report.pdf)
+> * **연구 자료**: [📥 Full Report](https://github.com/hyun1006/files/blob/main/Semiconductor_Process_and_Practice_Capstone_Report.pdf)
 
 <br>
 <br>

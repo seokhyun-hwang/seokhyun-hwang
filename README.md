@@ -9,15 +9,40 @@
 
 ## 📝 Introduction
 
-### 🎯 **Design & Verification Engineer**
-> 하드웨어 아키텍처의 동작 원리를 탐구하는 것을 즐기는 **반도체 설계 검증 엔지니어**입니다.
-> <br> **SystemVerilog**를 주력으로 **RISC-V CPU**를 밑바닥부터 설계하고 **AMBA APB** 프로토콜을 구현한 경험이 있습니다. 기능 구현을 넘어 **Hardware Acceleration**과 **Verification(검증)** 역량을 갖추어 신뢰성 높은 시스템을 만드는 것을 목표로 합니다.
+네, **1번(수식형) 스타일**의 직관적인 구조는 유지하되, **내용을 더 구체적이고 전문적으로 보강**했습니다.
 
-<br>
+단순히 "경험했다"는 수준을 넘어, 각 분야에서 **어떤 기술을 깊이 있게 다뤘는지** 명확히 보여주는 버전입니다. 포트폴리오의 `Introduction` 섹션에 그대로 복사해서 사용하시면 됩니다.
 
-### 🏭 **Semiconductor Process Engineer**
-> 공정 변수(Parameter)와 소자 특성 간의 상관관계를 집요하게 파고드는 **반도체 공정 엔지니어**입니다.
-> <br> **Photo, Etch, Deposition** 등 단위 공정을 직접 수행하며 압력, 유량 등의 변수가 박막의 증착률과 비저항에 미치는 영향을 분석했습니다. 공정 데이터를 기반으로 수율(Yield)을 개선하고 최적의 공정 레시피를 도출하는 엔지니어가 되겠습니다.
+---
+
+### 📋 복사하여 사용하세요
+
+**📝 Introduction**
+
+**🚀 Logic Design $\times$ Process Physics = High-Reliability System**
+
+**"코드(Code)의 논리와 웨이퍼(Wafer)의 물리를 모두 이해하는 하이브리드 엔지니어"**
+
+반도체는 완벽한 아키텍처 설계와 정밀한 공정 제어가 만나는 지점에서 완성됩니다. 저는 **시스템의 뇌(Logic)**와 **몸(Body)**을 모두 다뤄본 경험을 바탕으로, 설계와 공정 간의 간극을 좁히는 엔지니어입니다.
+
+**💻 Logic Design (The Brain)**
+> **"SystemVerilog를 주력으로 아키텍처를 설계하고 검증합니다."**
+* **RISC-V CPU Architecture:** Fetch부터 Writeback까지 파이프라인 전 과정을 밑바닥부터 설계하며 구조적 이해도 확보
+* **Interconnect Protocol:** **AMBA APB** 버스 프로토콜을 직접 구현하여 IP 간 통신 및 시스템 통합 역량 증명
+* **Verification:** 단순 기능을 넘어 하드웨어 가속 및 검증 환경 구축을 통한 신뢰성 확보
+
+**➕**
+
+**🏭 Process Technology (The Body)**
+> **"단위 공정 변수(Parameter)와 수율(Yield)의 상관관계를 분석합니다."**
+* **Unit Process:** **Photo, Etch, Deposition** 등 8대 단위 공정을 직접 수행하며 물리적 제약 사항 체득
+* **Data Analysis:** 가스 유량, 압력 등 공정 변수가 박막의 **증착률(Dep rate)**과 **비저항**에 미치는 영향 분석
+* **Yield Optimization:** 소자 특성 데이터를 기반으로 불량 원인을 파악하고 최적의 공정 레시피 도출
+
+**⬇️**
+
+**🎯 Value Proposition**
+설계 단계에서는 **공정 산포(Process Variation)**를 고려하여 현실적인 마진을 확보하고, 공정 단계에서는 **시스템 성능(Performance)**에 미칠 영향을 예측합니다. 두 영역의 시너지를 통해 **수율과 성능을 동시에 잡는 대체 불가능한 엔지니어**가 되겠습니다.
 
 <br>
 <br>

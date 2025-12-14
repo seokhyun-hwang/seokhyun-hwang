@@ -121,4 +121,4 @@
 ## 📫 Contact
 * 📞 **Phone**: 010-6506-3552
 * 📧 **Email**: [doitndidit@gmail.com](mailto:doitndidit@gmail.com)
-* 🐱 **Github**: [https://github.com/hyun1006](https://github.com/seokhyun-hwang)
+* 🐱 **Github**: [https://github.com/seokhyun-hwang](https://github.com/seokhyun-hwang)

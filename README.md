@@ -8,9 +8,18 @@
 - 🎓 **Education**: 고려대학교 전자및정보공학과 (졸업)
 - 📍 **Location**: Incheon, Korea
 - 🎂 **Birth**: 1998.10.06.
-- 📝 **Intro**:
-  하드웨어 아키텍처의 동작 원리를 탐구하는 것을 즐기는 **반도체 설계 검증 엔지니어**입니다.
-  **SystemVerilog**를 주력으로 **RISC-V CPU**를 밑바닥부터 설계하고 **AMBA APB** 프로토콜을 구현한 경험이 있습니다. 기능 구현을 넘어 **Hardware Acceleration**과 **Verification(검증)** 역량을 갖추어 신뢰성 높은 시스템을 만드는 것을 목표로 합니다.
+
+### 📝 Introduction
+
+**설계/검증 엔지니어**
+> 하드웨어 아키텍처의 동작 원리를 탐구하는 것을 즐기는 **반도체 설계 검증 엔지니어**입니다.
+> **SystemVerilog**를 주력으로 **RISC-V CPU**를 밑바닥부터 설계하고 **AMBA APB** 프로토콜을 구현한 경험이 있습니다. 기능 구현을 넘어 **Hardware Acceleration**과 **Verification(검증)** 역량을 갖추어 신뢰성 높은 시스템을 만드는 것을 목표로 합니다.
+
+<br>
+
+**반도체 공정 엔지니어**
+> 공정 변수(Parameter)와 소자 특성 간의 상관관계를 집요하게 파고드는 **반도체 공정 엔지니어**입니다.
+> **Photo, Etch, Deposition** 등 단위 공정을 직접 수행하며 압력, 유량 등의 변수가 박막의 증착률과 비저항에 미치는 영향을 분석했습니다. 공정 데이터를 기반으로 수율(Yield)을 개선하고 최적의 공정 레시피를 도출하는 엔지니어가 되겠습니다.
 
 <br>
 
@@ -21,7 +30,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white&color=blue)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=3776AB)
-![MATLAB(basic)](https://img.shields.io/badge/MATLAB(Basic)-e36414?style=flat&logo=mathworks&logoColor=white&color=ora)
+![MATLAB](https://img.shields.io/badge/MATLAB(Basic)-e36414?style=flat&logo=mathworks&logoColor=white&color=orange)
 
 ### Tools & IDE
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-red?style=flat&logo=xilinx&logoColor=white&color=red)
@@ -55,26 +64,24 @@
 <br>
 
 ## 🎓 Education & Training
-* **하만 세미콘 아카데미** | 대한상공회의소 서울기술교육센터 | *2025.07.01 ~ 2026.01.26 (예정)*
-    * 주요 학습 내용: Verilog HDL/SystemVerilog & UVM을 활용한 FPGA 설계 및 검증
-* **반도체공정및실습캡스톤디자인** | 고려대학교 | *2024.03 ~ 2024.06*
-    * Project 내용: 공정 압력에 따른 증착률 분석 연구
-* **교내 반도체공정/장비 실습** | 고려대학교 | *2021.01 ~ 2021.01*    * Project 내용: Photo-litho, Etch, Deposition 등 반도체 공정 실습을 통해 공정 과정 설계와 실제 구현
+* **하만 세미콘 아카데미** | 대한상공회의소 서울기술교육센터
+  <br> *2025.07.01 ~ 2026.01.26 (예정)*
+  <br> : Verilog HDL/SystemVerilog & UVM을 활용한 FPGA 설계 및 검증
+
+* **반도체공정및실습캡스톤디자인** | 고려대학교
+  <br> *2024.03 ~ 2024.06*
+  <br> : 반도체 8대 공정 학습 / 공정 압력에 따른 증착률과 비저항 분석 프로젝트 진행 (Deposition Rate Analysis)
+
+* **교내 반도체공정/장비 실습** | 고려대학교
+  <br> *2021.01 ~ 2021.01*
+  <br> : Photo-litho, Etch, Deposition 등 반도체 8대 공정 실습 및 소자 제작
 
 <br>
 
 ## 📂 Other Projects & Research
 > **📄 압력 변화와 열처리 과정이 박막에 미치는 영향**
 > * **설명**: 공정 압력(유량)에 따른 증착률 및 비저항 분석 연구
-> * **자료 보기***: 👉연구 자료(./files/반도체공정및실습캡스톤_보고서.pdf)
-
-<br>
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyun1006&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1006&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+> * **자료 보기**: [👉 PDF 보고서 다운로드](./files/반도체공정및실습캡스톤_보고서.pdf)
 
 <br>
 

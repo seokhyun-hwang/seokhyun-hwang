@@ -26,13 +26,13 @@
 **🏭 Process Technology (The Body)**
 > **"단위 공정 변수(Parameter)와 수율(Yield)의 상관관계를 분석합니다."**
 * **Unit Process:** **Photo, Etch, Deposition** 등 8대 단위 공정을 직접 수행하며 물리적 제약 사항 체득
-* **Data Analysis:** 가스 유량, 압력 등 공정 변수가 박막의 **증착률(Dep rate)**과 **비저항**에 미치는 영향 분석
+* **Data Analysis:** 가스 유량, 압력 등 공정 변수가 박막의 **증착률(Deposition** **rate)**과 **비저항**에 미치는 영향 분석
 * **Yield Optimization:** 소자 특성 데이터를 기반으로 불량 원인을 파악하고 최적의 공정 레시피 도출
 
 **⬇️**
 
 **🎯 Value Proposition**
-설계 단계에서는 **공정 산포(Process Variation)**를 고려하여 현실적인 마진을 확보하고, 공정 단계에서는 **시스템 성능(Performance)**에 미칠 영향을 예측합니다. 두 영역의 시너지를 통해 **수율과 성능을 동시에 잡는 대체 불가능한 엔지니어**가 되겠습니다.
+설계 단계에서는 **공정** **산포(Process** **Variation)**를 고려하여 현실적인 마진을 확보하고, 공정 단계에서는 **시스템** **성능(Performance)**에 미칠 영향을 예측합니다. 두 영역의 시너지를 통해 **수율과 성능을 동시에 잡는 대체 불가능한 엔지니어**가 되겠습니다.
 
 <br>
 <br>

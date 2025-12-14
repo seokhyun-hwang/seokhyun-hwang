@@ -81,7 +81,7 @@
 ## 📂 Other Projects & Research
 > **📄 압력 변화와 열처리 과정이 박막에 미치는 영향**
 > * **설명**: 공정 압력(유량)에 따른 증착률 및 비저항 분석 연구
-> * **자료 보기**: (https://github.com/hyun1006/files/blob/main/Semiconductor_Process_and_Practice_Capstone_Report.pdf)
+> * **자료 보기**: [View Report](https://github.com/hyun1006/files/blob/main/Semiconductor_Process_and_Practice_Capstone_Report.pdf)
 <br>
 
 ## 📫 Contact
